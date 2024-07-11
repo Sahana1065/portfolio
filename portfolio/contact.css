@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+
+}
+table,td {
+    border: 1px solid black;
+    box-sizing: border-box;
+    font-size: 20px;
+    box-shadow: 10px;
+}
